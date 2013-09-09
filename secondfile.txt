@@ -1,0 +1,2 @@
+This is a second text file to add to version control.
+You can add more than one file at a time if you like.
