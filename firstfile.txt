@@ -3,4 +3,5 @@ This is a change at the top on the master branch.
 It is just a plain text file that does not have any special formatting.
 Do NOT use formatted files such as Word documents.
 A change that will be reverted out of staging (cache).
+This is a bugfix.
 
