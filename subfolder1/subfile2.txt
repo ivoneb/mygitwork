@@ -1,1 +1,2 @@
 This is another arbitrary file in the subfolder.
+Final bugfix.
