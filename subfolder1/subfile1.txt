@@ -1,2 +1,3 @@
 This is the first file in the subfolder.
 To demonstrate how files in subfolders work.
+Second bug fix.
