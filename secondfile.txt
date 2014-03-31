@@ -3,3 +3,4 @@ You can add more than one file at a time if you like, or add them individually.
 I have modified a line in this file which should appear when I do a "diff" to compare differences. A few more changes added
 at middle and bottom.
 Another change that will be checked in from the Gui tool.
+Made a change to the main branch.
